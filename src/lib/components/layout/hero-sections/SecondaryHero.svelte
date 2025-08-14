@@ -21,7 +21,7 @@
 			<img
 				class="h-full w-full object-cover"
 				src={imageSrc}
-				alt="Diverse group of people collaborating"
+				alt="Design team collaborating in modern office environment"
 			/>
 		</div>
 	</div>
