@@ -10,12 +10,30 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Stop scrolling through endless job posts"
+	subtitle="Get high-quality design roles matched to your skills with intelligent compatibility scoring. No more wasted hours on irrelevant opportunities."
+	imageSrc="/generated/image-a-senior-designer-working-confidently-in.webp"
+	centered={false}
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Find my matches"
+		},
+		{
+			href: "/how-it-works",
+			label: "How it works"
+		}
+	]}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/stripe.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/notion.so/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/figma.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/linear.app/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
