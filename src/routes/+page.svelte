@@ -39,7 +39,7 @@
 
 <Summary
 	title="Smart matching for design careers"
-	text="Grids filters thousands of design opportunities through intelligent compatibility scoring, delivering high-quality job matches tailored specifically to senior designers and design managers. Our AI-powered platform eliminates the noise of irrelevant job posts, saving you 15+ hours weekly while connecting you with roles at high-growth tech companies where you'll actually fit."
+	text="Grids uses intelligent compatibility scoring to deliver high-quality job matches for senior designers. Skip the noise, save 15+ hours weekly, and find roles where you'll actually fit."
 />
 
 <Testimonials
