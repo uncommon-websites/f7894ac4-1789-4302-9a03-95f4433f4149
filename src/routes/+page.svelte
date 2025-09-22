@@ -39,7 +39,7 @@
 
 <Summary
 	title="Smart design matching"
-	text="Grids uses intelligent compatibility scoring to deliver high-quality job matches for senior designers. Skip the noise, save 15+ hours weekly, and find roles where you'll actually fit."
+	text="Smart job matching for senior designers. Skip the noise, find roles that fit."
 />
 
 <Testimonials
